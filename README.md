@@ -1,7 +1,7 @@
 # HoloGraphic
 
 MicroLightTech Holographic Plugin API for Developer 
-/**
+
 * File:        MicroLightPlugin.dll
 * Version:     1.0
 * Site:        http://www.MicroLightTech.com
@@ -32,5 +32,5 @@ MicroLightTech Holographic Plugin API for Developer
 * (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
 * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 *
-*/
+
 
