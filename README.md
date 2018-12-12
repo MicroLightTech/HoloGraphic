@@ -3,7 +3,7 @@
 MicroLightTech Holographic Plugin API for Developer 
 
 * File:        MicroLightPlugin.dll
-* Version:     1.0
+
 * Site:        http://www.MicroLightTech.com
 *
 * Copyright (c) 2018, Shenzhen MicroLight Technology Co, Ltd. All rights reserved.
@@ -34,3 +34,5 @@ MicroLightTech Holographic Plugin API for Developer
 *
 
 
+* Version:     1.0     ***********************************************************************
+* Deta   :     2018.12.12 *********************************************************************
